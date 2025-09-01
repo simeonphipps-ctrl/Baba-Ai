@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Pidgin AI Chat",
+  "description": "An AI chatbot that communicates in Nigerian Pidgin English, featuring text-to-speech with a selectable voice to bring the 'OG' personality to life.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
